@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ThunderStrom856
+- 👀 I’m interested in programation
+- 🌱 I’m currently learning python
